@@ -34,7 +34,7 @@ Counts occurrences of error messages in system logs.
 
 ## 🛠 Technologies Used
 - Python 3
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ---
 
